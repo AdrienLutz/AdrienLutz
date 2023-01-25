@@ -1,7 +1,3 @@
-# Welcome on my profile
-## I'm Adrien Lutz
-##### here are some markdown words
-
 <h1 align="center">Hi 👋, I'm Adrien</h1>
 <h3 align="center">A passionate developer from France</h3>
 
