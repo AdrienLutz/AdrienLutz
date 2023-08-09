@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi<br>I'm Adrien, a French developer with a particular fondness for php/symfony.<br>I'm also currently learning Python.<br>Have a nice day!
+Hi<br>I'm Adrien, a French developer with a particular affinity for php/symfony.<br>I'm also currently learning Python.<br>Have a nice day!
 
 
 # 💻 Tech Stack:
