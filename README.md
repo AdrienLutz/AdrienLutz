@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi<br>I'm Adrien, a French developer learning php (at shool, see my [https://github.com/AdrienLutz?tab=repositories](repo)) and python (at work, see [OpenScop.fr](https://www.openscop.fr/)).<br>Have a nice day!
+Hi<br>I'm Adrien, a French developer learning php (at shool, see my [repo](https://github.com/AdrienLutz?tab=repositories)) and python (at work, see [OpenScop.fr](https://www.openscop.fr/)).<br>Have a nice day!
 
 
 # 💻 Tech Stack:
